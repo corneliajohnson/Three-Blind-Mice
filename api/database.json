@@ -3,12 +3,14 @@
     {
       "id": 1,
       "model": "Macbook Pro",
-      "year": 2015
+      "year": 2015,
+      "departmentId": 2
     },
     {
       "id": 2,
       "model": "Dell",
-      "year": 2017
+      "year": 2017,
+      "departmentId": 2
     },
     {
       "id": 3,
@@ -18,7 +20,8 @@
     {
       "id": 4,
       "model": "Microsoft Surface",
-      "year": 2020
+      "year": 2020,
+      "departmentId": 4
     }
   ],
   "employees": [
@@ -49,6 +52,24 @@
       "lastName": "Campbell",
       "age": 43,
       "computerId": 4
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "name": "Human Resources"
+    },
+    {
+      "id": 2,
+      "name": "Frontend"
+    },
+    {
+      "id": 1,
+      "name": "Backend"
+    },
+    {
+      "id": 1,
+      "name": "Design"
     }
   ]
 }
