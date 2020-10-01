@@ -1,0 +1,50 @@
+{
+  "computers": [
+    {
+      "id": 1,
+      "model": "Macbook Pro",
+      "year": 2015
+    },
+    {
+      "id": 2,
+      "model": "Dell",
+      "year": 2017
+    },
+    {
+      "id": 3,
+      "model": "Macbook Pro",
+      "year": 2019
+    },
+    {
+      "id": 4,
+      "model": "Microsoft Surface",
+      "year": 2020
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Rainu",
+      "lastName": "Ittycheriah",
+      "computerId": 1
+    },
+    {
+      "id": 2,
+      "firstName": "Cornelia",
+      "lastName": "Johnson",
+      "computerId": 2
+    },
+    {
+      "id": 3,
+      "firstName": "John",
+      "lastName": "Smith",
+      "computerId": 3
+    },
+    {
+      "id": 4,
+      "firstName": "Mary",
+      "lastName": "Campbell",
+      "computerId": 4
+    }
+  ]
+}
